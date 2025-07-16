@@ -17,4 +17,5 @@ Y. Kim, W. S. Jeon, and D. G. Jeong, "AmFall: WiFi CSI Amplitude-Based Fall Dete
 
 # Files
 AmFall_Github.m : MATLAB code for preprocessing of CSI log file (to generate image file)
+
 b_bh_fall_front3.log : a sample CSI log file
