@@ -13,3 +13,4 @@ The proposed system, implemented on commercial WiFi devices, achieves a high fal
 in TTW and cross-domain environments, outperforming state-of-the-art WiFi-based methods.
 
 # Cite
+Y. Kim, W. S. Jeon, and D. G. Jeong, "AmFall: WiFi CSI Amplitude-Based Fall Detection Using Denoised Scalograms," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3585401. (Early access as of 16JUL25).
