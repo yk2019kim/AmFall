@@ -14,3 +14,7 @@ in TTW and cross-domain environments, outperforming state-of-the-art WiFi-based 
 
 # Cite
 Y. Kim, W. S. Jeon, and D. G. Jeong, "AmFall: WiFi CSI Amplitude-Based Fall Detection Using Denoised Scalograms," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3585401. (Early access as of 16JUL25).
+
+# Files
+AmFall_Github.m : MATLAB code for preprocessing of CSI log file (to generate image file)
+b_bh_fall_front3.log : a sample CSI log file
