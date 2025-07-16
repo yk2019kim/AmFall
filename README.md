@@ -11,3 +11,5 @@ The segmented scalograms are fed into a deep learning-based classifier.
 In this paper, we also suggest a simple yet effective dataset augmentation method to generate multiple scalograms from a single CSI observation.
 The proposed system, implemented on commercial WiFi devices, achieves a high fall detection accuracy of 95.28% to 99.67%
 in TTW and cross-domain environments, outperforming state-of-the-art WiFi-based methods.
+
+# Cite
