@@ -13,7 +13,7 @@ The proposed system, implemented on commercial WiFi devices, achieves a high fal
 in TTW and cross-domain environments, outperforming state-of-the-art WiFi-based methods.
 
 # Files
-- AmFall_Github.m : MATLAB (R2024a) code for preprocessing of CSI log file to generate scalogram images. CSI tool for MATLAB/Octave (https://dhalperi.github.io/linux-80211n-csitool/) should be preinstalled on MATLAB to execuit it.
+- AmFall_Github.m : MATLAB (R2024a) code for preprocessing of CSI log file to generate scalogram images. 
 
 - AmFall_Colab_Github.ipynb : Colab Notebook python code for CNN classification (CNN_SNU1 (LW-CNN), CNN_R18 (ResNet-18), CNN_R34 (ResNet-34)).  
    Image directory structure : image-dir / env-name / user-name / fall or nonfall / image-files (jpg)  
@@ -22,7 +22,7 @@ in TTW and cross-domain environments, outperforming state-of-the-art WiFi-based 
 - b_bh_fall_front3.log : a sample CSI log file
 
 # Execution
-1) Install the CSI tool for MATLAB/Octave
+1) Install CSI tool for MATLAB/Octave (https://dhalperi.github.io/linux-80211n-csitool/)
 2) Use AmFall_Github.m on MATLAB to generate image files from CSI logs
 3) Use AmFall_Colab_Github.ipynb on Colab to classify the images
 
