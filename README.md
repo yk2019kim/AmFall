@@ -12,6 +12,8 @@ In this paper, we also suggest a simple yet effective dataset augmentation metho
 The proposed system, implemented on commercial WiFi devices, achieves a high fall detection accuracy of 95.28% to 99.67%
 in TTW and cross-domain environments, outperforming state-of-the-art WiFi-based methods.
 
+Contact : yk2019kim@gmail.com, Yongkeun KIM
+
 # Files
 - AmFall_Github.m : MATLAB (R2024a) code for preprocessing of CSI log file to generate scalogram images. 
 
