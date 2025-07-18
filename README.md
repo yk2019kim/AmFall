@@ -29,8 +29,7 @@ Contact : yk2019kim@gmail.com, Yongkeun KIM
 3) Use AmFall_Colab_Github.ipynb on Colab to classify the images
 
 # Dataset download (environment A and environment B in the AmFall paper)
-[
-](https://drive.google.com/drive/folders/1I8ooo6GJj-PWMX3htHeVnYhV5U9EoRf-?usp=sharing)
+Google drive : https://drive.google.com/drive/folders/1I8ooo6GJj-PWMX3htHeVnYhV5U9EoRf-?usp=sharing
 
 # Cite
 Y. Kim, W. S. Jeon, and D. G. Jeong, "AmFall: WiFi CSI Amplitude-Based Fall Detection Using Denoised Scalograms," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3585401. (Early access as of 16JUL25).
