@@ -28,7 +28,7 @@ Contact : yk2019kim@gmail.com, Yongkeun KIM
 2) Use AmFall_Github.m on MATLAB to generate image files from CSI logs
 3) Use AmFall_Colab_Github.ipynb on Colab to classify the images
 
-# Dataset download (dataset A and B in the AmFall paper)
+# Dataset download (dataset A and B used in the AmFall paper)
 Google drive : https://drive.google.com/drive/folders/1I8ooo6GJj-PWMX3htHeVnYhV5U9EoRf-?usp=sharing  
   CSI directory structure : CSI-dir / *env-name* / *user-name* / fall or nonfall / CSI-files (.log)
   
