@@ -32,5 +32,5 @@ Contact : yk2019kim@gmail.com, Yongkeun KIM
 Google drive : https://drive.google.com/drive/folders/1I8ooo6GJj-PWMX3htHeVnYhV5U9EoRf-?usp=sharing  
   CSI directory structure : CSI-dir / *env-name* / *user-name* / fall or nonfall / CSI-files (.log)
   
-# Cite
+# Cite (AmFall paper)
 Y. Kim, W. S. Jeon, and D. G. Jeong, "AmFall: WiFi CSI Amplitude-Based Fall Detection Using Denoised Scalograms," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3585401. (Early access as of 16JUL25).
