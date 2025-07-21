@@ -19,7 +19,7 @@ Contact : yk2019kim@gmail.com, Yongkeun KIM
 
 - AmFall_Colab_Github.ipynb : Colab Notebook python code for CNN classification (CNN_SNU1 (LW-CNN), CNN_R18 (ResNet-18), CNN_R34 (ResNet-34)).  
    Image directory structure : image-dir / *env-name* / *user-name* / fall or nonfall / image-files (.jpg)  
-   Ex, csi_AmFall/enva/bh/fall/*.jpg or csi_AmFall/envb/su/nonfall/*.jpg
+   Ex, csi_AmFall/enva/bh/fall/\*.jpg or csi_AmFall/envb/su/nonfall/\*.jpg
 
 - b_bh_fall_front3.log : a sample CSI log file (the CSI used in Fig.3 of AmFall paper)
 
